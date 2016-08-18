@@ -1,12 +1,12 @@
 {% if False %}
-# Django Template (require Django >= 1.5) #
+# Django Template (require Django >= 1.8) #
 
 ## About ##
 
-This template is designed for Django 1.4's new startproject template option.
+This template is designed for Django 1.8's new startproject template option.
 
 As much as I could, all the code has been updated to use the new suggested layout
-and functionality in Django 1.4.
+and functionality in Django 1.8.
 
 ## Features ##
 
@@ -41,8 +41,8 @@ Any of these options can added, modified, or removed as you like after creating 
 ## How to use this template to create your project ##
 
 - Create your virtualenv
-- Install Django 1.5
-- $ git clone http://code.acttao.com/acttao/django-template
+- Install Django 1.8
+- $ https://github.com/xuchao666/django_tmp.git
 - $ django-admin.py startproject --template django-template -e py,md -n tox.ini,Vagrantfile projectname
 - $ cd projectname
 - Select your database adapter in requirements/compiled.txt (MySQL, Postgresql, or stick with SQLite)
