@@ -16,10 +16,6 @@ Background Tasks:
 
 - Celery
 
-Migrations:
-
-- South
-
 Caching:
 
 - python-memcached
