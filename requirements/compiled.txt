@@ -3,3 +3,10 @@
 MySQL-python
 
 Pillow
+
+# Utils
+ipython
+
+# Deployment
+django-supervisor
+uWSGI
