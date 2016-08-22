@@ -22,6 +22,5 @@ site-static/
 assets/
 media/
 .idea/
-.vagrant/
 backups/
 .env*
